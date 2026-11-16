@@ -1,0 +1,12 @@
+cd C:\Desktop\akiba\week_7
+git init
+git add .
+git commit -m "Initial Week 7"
+git remote add origin YOUR_WEEK7_URL
+git push -u origin master
+
+
+cd C:\Desktop\akiba
+git add week_3/
+git commit -m "Update Week 3"
+git push
